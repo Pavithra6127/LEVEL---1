@@ -1,6 +1,6 @@
 📊 INTERNSHIP TASK 1 - PYTHON
 
-This repository contains my submission for Task 1 of the python intern internship at Cognifyz Technologies.
+This repository contains my submission for Task 1 of the python internship at Cognifyz Technologies.
 
 📌 Task Objective
 
